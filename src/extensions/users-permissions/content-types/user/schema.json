@@ -110,11 +110,6 @@
       "relation": "oneToMany",
       "target": "api::post.post"
     },
-    "commented": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::post.post"
-    },
     "saved": {
       "type": "relation",
       "relation": "oneToMany",
